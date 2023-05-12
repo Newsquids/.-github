@@ -6,13 +6,20 @@
 <h3>Technologies Used</h3>
 
 Front-end: Next.js, TypeScript
-Back-end: Django, MySQL, Docker
+Back-end: Django, PostgreSQL, Docker
 Deployment: GCP
 
 <h3>Key Features</h3>
 &nbsp Crawling of traditional financial news sources like Reuters and CNBC, as well as cryptocurrency news from sources like Coindesk.
 Keyword search for financial news and cryptocurrency news
 UI inspired by Windows 98 interface
+
+<h3>Our Project</h3>
+
+![스크린샷 2023-05-12 오후 9 09 25](https://github.com/Newsquids/.github/assets/103014298/a41b24b4-693e-4de9-b0a4-8eb0b018947f)
+![스크린샷 2023-05-12 오후 9 09 37](https://github.com/Newsquids/.github/assets/103014298/49d7691d-a248-4fd1-9fb2-f1f71ab8625c)
+![스크린샷 2023-05-12 오후 9 09 49](https://github.com/Newsquids/.github/assets/103014298/31da51d4-d710-4469-9057-e29d0370a53f)
+
 
 <h3>Developer</h3>
 
