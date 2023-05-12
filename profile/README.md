@@ -11,8 +11,6 @@ Deployment: GCP
 
 <h3>Key Features</h3>
 &nbsp Our service's core function is to provide users with curated financial news articles from traditional sources such as Reuters and CNBC, as well as cryptocurrency news from sources like Coindesk. Due to copyright restrictions, we are unable to crawl and display full articles. Instead, we carefully select and redirect users to relevant news articles.
-<br/>
-UI inspired by Windows 98 interface
 
 <h3>Our Project</h3>
 
