@@ -1,12 +1,27 @@
-## Hi there 👋
+<h1>Newsquids</h1>
 
-<!--
+<h3>Introduction</h3>
+&nbsp Our project is a website that shows financial news from traditional sources like Reuters and CNBC, as well as cryptocurrency news from sources like Coindesk. We used Next.js and TypeScript for the front-end, and Django and MySQL with Docker for the back-end.
 
-**Here are some ideas to get you started:**
+&nbsp The website has a concept inspired by the Windows 98 interface and is currently being tested and deployed at https://www.newqudis.co.kr.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3>Technologies Used</h3>
+
+Front-end: Next.js, TypeScript
+Back-end: Django, MySQL, Docker
+Deployment: GCP
+
+<h3>Key Features</h3>
+&nbsp Crawling of traditional financial news sources like Reuters and CNBC, as well as cryptocurrency news from sources like Coindesk.
+Keyword search for financial news and cryptocurrency news
+UI inspired by Windows 98 interface
+
+<h3>Developer</h3>
+
+Frontend
+Developer: Jimin Park
+Email: keepinblazing@gmail.com
+
+Backend
+Developer: Dongguk Seo
+Email: failnxid@gmail.com
