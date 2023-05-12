@@ -5,8 +5,8 @@
 
 <h3>Technologies Used</h3>
 
-Front-end: Next.js, TypeScript
-Back-end: Django, PostgreSQL, Docker
+Front-end: Next.js, TypeScript<br/>
+Back-end: Django, PostgreSQL, Docker<br/>
 Deployment: GCP
 
 <h3>Key Features</h3>
@@ -23,10 +23,10 @@ UI inspired by Windows 98 interface
 
 <h3>Developer</h3>
 
-Frontend
-Developer: Jimin Park
-Email: keepinblazing@gmail.com
+Frontend<br/>
+Developer: Jimin Park<br/>
+Email: keepinblazing@gmail.com<br/>
 
-Backend
-Developer: Dongguk Seo
+Backend<br/>
+Developer: Dongguk Seo<br/>
 Email: failnxid@gmail.com
